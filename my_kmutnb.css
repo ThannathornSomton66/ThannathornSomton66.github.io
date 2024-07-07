@@ -1,0 +1,16 @@
+.body-container{
+    width:100%;
+    height:100%;
+}
+
+.photos-box img{
+    width:50%;
+    height:80%;
+    object-fit: cover;
+}
+
+.photos-box h2{
+    width:50%;
+    height:80%;
+    object-fit: cover;
+}
